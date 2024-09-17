@@ -858,7 +858,7 @@
   dependencies:
     "@babel/plugin-transform-react-jsx" "^7.24.7"
 
-"@babel/plugin-transform-react-jsx@^7.24.7":
+"@babel/plugin-transform-react-jsx@^7.24.7", "@babel/plugin-transform-react-jsx@^7.25.2":
   version "7.25.2"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-react-jsx/-/plugin-transform-react-jsx-7.25.2.tgz#e37e8ebfa77e9f0b16ba07fadcb6adb47412227a"
   integrity sha512-KQsqEAVBpU82NM/B/N9j9WOdphom1SZH3R+2V7INrQUH+V9EBFwZsEJl8eBIVeQE62FxJCc70jzEZwqU7RcVqA==
